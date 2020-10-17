@@ -1,3 +1,7 @@
+/*
+ Create a method to ind the sum of the cubes of the digits of an n digit number 
+ */
+
 package lab01.exercise01;
 
 import java.util.Scanner;
